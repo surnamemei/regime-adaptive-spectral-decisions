@@ -1,0 +1,29 @@
+{
+  "title": "Code and data for Regime-adaptive branch decisions for deficient-order fits of spectral clusters",
+  "creators": [
+    {
+      "name": "Mei, Jinghang",
+      "affiliation": "The University of Sydney",
+      "orcid": "0009-0007-2901-3285"
+    }
+  ],
+  "upload_type": "software",
+  "version": "1.0.0",
+  "license": "mit",
+  "access_right": "open",
+  "description": "Code and simulation data for a statistical branch-decision method for deficient-order spectral fits: linear and restricted-cost tests, regime selection, 196,000 original-study records, 36,000 fixed follow-up draws, matched-error comparisons, spacing/tuning checks and figure generators. This is the statistical-method study, separate from the deterministic ACHA companion and its interval-certificate archive (10.5281/zenodo.23451747). Code is MIT-licensed; data, figures and documentation are CC BY 4.0 as specified in LICENSE-DATA.md.",
+  "keywords": [
+    "statistical signal processing",
+    "spectral estimation",
+    "hypothesis testing",
+    "uniform asymptotic inference",
+    "regime selection"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.23451747",
+      "scheme": "doi",
+      "relation": "references"
+    }
+  ]
+}

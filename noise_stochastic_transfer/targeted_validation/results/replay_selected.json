@@ -1,0 +1,14 @@
+[
+  {
+    "cell": 0,
+    "draws": 50,
+    "allclose": true,
+    "max_abs_difference": 0.0
+  },
+  {
+    "cell": 71,
+    "draws": 50,
+    "allclose": true,
+    "max_abs_difference": 0.0
+  }
+]

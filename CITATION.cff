@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Please cite the versioned code and data release when using this statistical study."
+title: "Code and data for Regime-adaptive branch decisions for deficient-order fits of spectral clusters"
+type: software
+authors:
+  - family-names: Mei
+    given-names: Jinghang
+    affiliation: The University of Sydney
+    orcid: "https://orcid.org/0009-0007-2901-3285"
+version: 1.0.0
+date-released: 2026-10-19
+repository-code: "https://github.com/surnamemei/regime-adaptive-spectral-decisions"
+license: MIT

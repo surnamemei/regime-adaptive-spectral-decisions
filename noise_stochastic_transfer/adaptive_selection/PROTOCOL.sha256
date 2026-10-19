@@ -1,0 +1,9 @@
+9800a0fc992c83954f3a448bdd72959dbc34d94f33784f92116921e587955019  PROTOCOL.md
+c11db947fa67c2fe14de74b5173717b4b3ddc327395c46d42f4a0a6f2a445ed0  THEOREM.md
+e489064a79768b5ea0626ead6757496214c74d02f43c85393aa37f55b0e9eac2  code/run_study.py
+# recorded 2026-10-19T17:47:01+11:00
+a0e80753ebc2d3a534f6ddd6c8f40b336c139d6c6489e9300ca4f3329e052876  code/analyze.py
+# analysis script recorded 2026-10-19T17:48:05+11:00, before results/raw.json exists: run.log
+smoke_DISCARD.json
+57722118bded3adf6dcfbb815c8d98d00a3d04210fe74bf3bb9f8f87c6337e03  code/analyze.py
+# 2026-10-19T18:53:21+11:00: analyze.py amended after first execution: JSON serializer for the auxiliary rows.json dump only (crash on numpy scalars); no outcome definition changed
