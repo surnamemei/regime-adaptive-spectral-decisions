@@ -4,6 +4,9 @@ Code and simulation data for the statistical-method paper by Jinghang Mei, prepa
 
 The method returns branch A, branch B or an inconclusive decision. It selects between a linear contrast test and a restricted fitting-cost test using estimated noise and cluster defect. The theoretical target is a uniform asymptotic bound on the unconditional probability of a wrong declaration. The numerical study compares correct declarations, wrong declarations and abstentions across noise regimes.
 
+**Version 1.0.0 archive: [DOI 10.5281/zenodo.23474289](https://doi.org/10.5281/zenodo.23474289)**  
+[GitHub Release v1.0.0](https://github.com/surnamemei/regime-adaptive-spectral-decisions/releases/tag/v1.0.0)
+
 ## This archive and the deterministic companion
 
 This repository contains the **statistical decision study**: the tests, adaptive selector, simulation records, operating comparisons, finite-spacing checks and figure generators. Its first software release is **v1.0.0**.
