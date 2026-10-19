@@ -7,6 +7,8 @@ The method returns branch A, branch B or an inconclusive decision. It selects be
 **Version 1.0.0 archive: [DOI 10.5281/zenodo.23474289](https://doi.org/10.5281/zenodo.23474289)**  
 [GitHub Release v1.0.0](https://github.com/surnamemei/regime-adaptive-spectral-decisions/releases/tag/v1.0.0)
 
+Read the [study summary](docs/study_summary.md) for the current abstract, six keywords and code/data citation.
+
 ## This archive and the deterministic companion
 
 This repository contains the **statistical decision study**: the tests, adaptive selector, simulation records, operating comparisons, finite-spacing checks and figure generators. Its first software release is **v1.0.0**.
