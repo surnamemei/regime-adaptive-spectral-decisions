@@ -11,13 +11,14 @@
   "version": "1.0.0",
   "license": "mit",
   "access_right": "open",
-  "description": "Code and simulation data for a statistical branch-decision method for deficient-order spectral fits: linear and restricted-cost tests, regime selection, 196,000 original-study records, 36,000 fixed follow-up draws, matched-error comparisons, spacing/tuning checks and figure generators. This is the statistical-method study, separate from the deterministic ACHA companion and its interval-certificate archive (10.5281/zenodo.23451747). Code is MIT-licensed; data, figures and documentation are CC BY 4.0 as specified in LICENSE-DATA.md.",
+  "description": "Code and simulation data for a statistical branch-decision method for deficient-order spectral fits: linear and restricted-cost tests, regime selection, 196,000 original-study records, 36,000 fixed follow-up draws, matched-error comparisons, spacing/tuning checks and figure generators. This is the statistical-method study, separate from the deterministic companion and its interval-certificate archive (10.5281/zenodo.23451747). Code is MIT-licensed; data, figures and documentation are CC BY 4.0 as specified in LICENSE-DATA.md.",
   "keywords": [
-    "statistical signal processing",
-    "spectral estimation",
+    "uniform inference",
+    "adaptive testing",
     "hypothesis testing",
-    "uniform asymptotic inference",
-    "regime selection"
+    "model misspecification",
+    "nonlinear least squares",
+    "spectral estimation"
   ],
   "related_identifiers": [
     {

@@ -1,6 +1,6 @@
 # Regime-adaptive branch decisions for deficient-order fits of spectral clusters
 
-Code and simulation data for the statistical-method paper by Jinghang Mei, prepared for *Signal Processing*.
+Code and simulation data for the statistical-method paper by Jinghang Mei, prepared for *Metrika*.
 
 The method returns branch A, branch B or an inconclusive decision. It selects between a linear contrast test and a restricted fitting-cost test using estimated noise and cluster defect. The theoretical target is a uniform asymptotic bound on the unconditional probability of a wrong declaration. The numerical study compares correct declarations, wrong declarations and abstentions across noise regimes.
 
@@ -13,7 +13,7 @@ Read the [study summary](docs/study_summary.md) for the current abstract, six ke
 
 This repository contains the **statistical decision study**: the tests, adaptive selector, simulation records, operating comparisons, finite-spacing checks and figure generators. Its first software release is **v1.0.0**.
 
-The deterministic localization theorems and interval certificates belong to the separate ACHA companion, [Global Representation Exchange in Best Approximation of Positive Spectral Clusters](https://github.com/surnamemei/positive-spectral-cluster-exchange), archived as [DOI 10.5281/zenodo.23451747](https://doi.org/10.5281/zenodo.23451747). That DOI identifies the companion's material. Statistical simulations here are numerical experiments, rather than interval-certified parameter regions.
+The deterministic localization theorems and interval certificates belong to the separate deterministic companion, [Global Representation Exchange in Best Approximation of Positive Spectral Clusters](https://github.com/surnamemei/positive-spectral-cluster-exchange), archived as [DOI 10.5281/zenodo.23451747](https://doi.org/10.5281/zenodo.23451747). That DOI identifies the companion's material. The companion manuscript is submitted to *Constructive Approximation*. Statistical simulations here are numerical experiments, rather than interval-certified parameter regions.
 
 ## Contents
 
